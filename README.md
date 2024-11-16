@@ -1,2 +1,2 @@
-# Ninja-Block
-Game
+# BlockNinja
+Games
